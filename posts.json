@@ -1,4 +1,0 @@
-{
-  "layout": "post.njk",
-  "permalink": "/papers/{{ page.fileSlug }}/index.html"
-}
