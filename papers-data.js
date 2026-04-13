@@ -6,14 +6,14 @@
    */
   window.PAPERS = [
     {
-      href: "articles/welcome.html",
+      href: "welcome.html",
       title: "Welcome to our manuscript shelf",
       date: "2026-03-18",
       author: "Noah",
       abstract: "Why this site exists and how we use it.",
     },
     {
-      href: "articles/example-note.html",
+      href: "example-note.html",
       title: "Example reading notes",
       date: "2026-04-02",
       author: "Hershil",
