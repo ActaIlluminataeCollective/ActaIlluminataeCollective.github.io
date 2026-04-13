@@ -1,0 +1,11 @@
+{
+  "title": "Arin · Noah · Hershil · Andrei",
+  "tagline": "Shared research papers & notes",
+  "url": "https://example.github.io/research-collective-site",
+  "authors": [
+    { "name": "Arin", "role": "Research" },
+    { "name": "Noah", "role": "Research" },
+    { "name": "Hershil", "role": "Research" },
+    { "name": "Andrei", "role": "Research" }
+  ]
+}
