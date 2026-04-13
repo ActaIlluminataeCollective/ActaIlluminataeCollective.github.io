@@ -47,7 +47,7 @@
     el.innerHTML = "";
     if (slice.length === 0) {
       el.innerHTML =
-        '<li class="empty-state">No papers yet. Edit <code>js/papers-data.js</code> and add a page under <code>articles/</code>.</li>';
+        '<li class="empty-state">No papers yet. Edit <code>papers-data.js</code> and add a page (e.g. <code>welcome.html</code>).</li>';
       return;
     }
     slice.forEach(function (p) {
